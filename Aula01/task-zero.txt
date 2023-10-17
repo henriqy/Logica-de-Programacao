@@ -1,0 +1,9 @@
+1) o que é lógica
+-> é um conjunto de processos que tem sentido 
+
+2) o que são dados
+-> conjunto de informações de uma entidade
+ex: dados pessoais
+
+3) o que é processamento de dados
+-> processo das informações que realiza tarefas e mostra um resultado a partir das instruções
